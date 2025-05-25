@@ -2,6 +2,8 @@
 <h3 align="center">👨‍💻 Adnan Saifi | Full Stack Developer from India | Building responsive UIs with React & Tailwind, scalable backends with Flask & Node.js, deploying ML models with Python, and leveraging cloud with Azure & Docker.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flying-bison01&label=Profile%20views&color=0e75b6&style=flat" alt="flying-bison01" /> </p>
+<img src="https://raw.githubusercontent.com/flying-bison01/flying-bison01/output/snake.svg" alt="Snake animation" />
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flying-bison01" alt="flying-bison01" /></a> </p>
 
