@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flying-bison01" alt="flying-bison01" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js, FastAPI, Azure DevOps, and advanced TypeScript**
+- 🌱 I’m currently learning **Next.js, FastAPI, Azure DevOps, and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://adnan-portfoliooo.netlify.app/](https://adnan-portfoliooo.netlify.app/)
 
